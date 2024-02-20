@@ -39,3 +39,8 @@ const cancelEmail = (email, name) => {
 module.exports = {
     sendWelcomeEmail, cancelEmail
 };
+
+
+
+
+
